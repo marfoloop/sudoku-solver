@@ -7,6 +7,6 @@ package marfoloop;
 public class SudokuSolver {
    static class
     public static void main(String[] args) {
-        System.out.println("fero");
+        System.out.println("marfo");
     }
 }
